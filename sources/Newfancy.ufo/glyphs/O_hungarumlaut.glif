@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohungarumlaut" format="2">
+  <advance width="472"/>
+  <unicode hex="0150"/>
+  <outline>
+    <contour>
+      <point x="263" y="693" type="line"/>
+      <point x="504" y="693" type="line"/>
+      <point x="564" y="564" type="line"/>
+      <point x="477" y="152" type="line"/>
+      <point x="360" y="17" type="line"/>
+      <point x="119" y="17" type="line"/>
+      <point x="59" y="152" type="line"/>
+      <point x="146" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="186" type="line"/>
+      <point x="438" y="528" type="line"/>
+      <point x="421" y="575" type="line"/>
+      <point x="295" y="575" type="line"/>
+      <point x="259" y="528" type="line"/>
+      <point x="186" y="186" type="line"/>
+      <point x="202" y="137" type="line"/>
+      <point x="328" y="137" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="731" type="line"/>
+      <point x="326" y="901" type="line"/>
+      <point x="427" y="831" type="line"/>
+      <point x="361" y="731" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="731" type="line"/>
+      <point x="520" y="901" type="line"/>
+      <point x="621" y="831" type="line"/>
+      <point x="555" y="731" type="line"/>
+    </contour>
+  </outline>
+</glyph>
