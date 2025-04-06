@@ -4,9 +4,9 @@
 ## Variable Font Axe
 Newfancy has the following axe:
 
-# Tag | Default | Static Instances
-# --- | --- | ---
- # wght | 400 | Regular
+  Tag | Default | Static Instances
+--- | --- | ---
+  wght | 400 | Regular
   
 ![Image](documentation/image2.png)
 
